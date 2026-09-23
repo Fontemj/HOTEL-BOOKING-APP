@@ -1,0 +1,6 @@
+{
+  "name": "WDC Grand Heritage",
+  "description": "Luxury hotel reservation sanctuary and settlement system with bespoke guest profile and payment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
